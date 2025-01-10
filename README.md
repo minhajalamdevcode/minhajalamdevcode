@@ -6,13 +6,13 @@
 
 ## Intro
 
-- 🤵 I'm currently working on various projects to improve my front-end web development skills
-- 🧠 I'm also learning MERN stack
-- 👩‍🏫 I'm looking help and guidance with MERN stack
+- 🤵 I'm currently working on several projects to enhance my front-end web development skills
+- 🧠 I’m currently working on projects to strengthen my expertise in Laravel and Three.js Next Js
+- 👩‍🏫 I'm looking help and guidance with Full Stack web development
 - 🤝 I'm open to collab with anyone
-- 🐂 I'm also a web designer and technical analyst
+- 🐂 I'm also technical analyst
 - 🌐 See my portfolio at [here](https://grimwebdeveloper.github.io/Portfolio/)
-- 📧 Reach me at [msijmpshaan369@gmail.com](mailto:msijmpshaan369@gmail.com)
+- 📧 How to Reach me [myminhajalam392@gmail.com](mailto:myminhajalam392@gmail.com)
 <!-- - 🌐 See my portfolio at [sharifiqbaljamil.dev](https://sharifiqbaljamil.dev) -->
 <!-- - 🌐 See my website at [sharifiqbaljamil.com](https://sharifiqbaljamil.com) -->
 

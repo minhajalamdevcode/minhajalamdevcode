@@ -1,6 +1,6 @@
  # Hello 👋, I'm Minhaj Alam
 
-***"Passionate front-end web developer from India, dedicated to crafting captivating user experiences with a blend of creativity and precision."***
+***"A Full Stack web developer who works with energy and dedication."***
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grimwebdeveloper&color=brightgreen&style=for-the-badge&label=Profile+Views)
 

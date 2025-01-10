@@ -1,4 +1,4 @@
-# Hello 👋, I'm Minhaj Alam
+                                                                                         # Hello 👋, I'm Minhaj Alam
 
 ***"Passionate front-end web developer from India, dedicated to crafting captivating user experiences with a blend of creativity and precision."***
 

@@ -7,7 +7,7 @@
 ## Intro
 
 - 🤵 I'm currently working on several projects to enhance my front-end web development skills
-- 🧠 I’m currently working on projects to strengthen my expertise in Laravel and Three.js Next Js
+- 🧠 I’m currently working on projects to strengthen my expertise in Javascript and React js Next Js
 - 👩‍🏫 I'm looking help and guidance with Full Stack web development
 - 🤝 I'm open to collab with anyone
 - 🌐 See my portfolio at [here](https://grimwebdeveloper.github.io/Portfolio/)

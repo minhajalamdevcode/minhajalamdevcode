@@ -10,7 +10,7 @@
 - 🧠 I’m currently working on projects to strengthen my expertise in Javascript and React js Next Js
 - 👩‍🏫 I'm looking help and guidance with Full Stack web development
 - 🤝 I'm open to collab with anyone
-- 🌐 See [My Portfoliohere](https://portfolio-cyan-pi-65.vercel.app)
+- 🌐 See [My Portfolio here](https://portfolio-cyan-pi-65.vercel.app)
 - 📧 How to Reach me [myminhajalam392@gmail.com](mailto:myminhajalam392@gmail.com)
 
 ## Skills

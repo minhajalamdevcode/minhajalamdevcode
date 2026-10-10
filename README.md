@@ -1,20 +1,24 @@
  # Hello 👋, I'm Minhaj Alam
 
-***"A Full Stack web developer who works with energy and dedication."***
+***"***An aspiring Data Analyst passionate about transforming raw data into meaningful insights using Excel, SQL, Power BI, and Python.***"***
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grimwebdeveloper&color=brightgreen&style=for-the-badge&label=Profile+Views)
 
 ## Intro
 
-- 🤵 I'm currently working on several projects to enhance my front-end web development skills
-- 🧠 I’m currently working on projects to strengthen my expertise in Javascript and React js Next Js
-- 👩‍🏫 I'm looking help and guidance with Full Stack web development
-- 🤝 I'm open to collab with anyone
+- 📈 I'm focused on building my skills in Data Analytics through hands-on projects.
+  🧹 I'm learning to clean, analyze, and transform data using Excel, SQL, Power BI, and Python.
+  📊 I'm building interactive dashboards and exploring data to discover meaningful business insights.
+  🤝 I'm open to collaborating on Data Analytics projects and learning from others.
+  🎯 My goal is to turn raw data into actionable insights that support better business decisions.
 - 🌐 See [My Portfolio here](https://portfolio-cyan-pi-65.vercel.app)
 - 📧 How to Reach me [myminhajalam392@gmail.com](mailto:myminhajalam392@gmail.com)
 
 ## Skills
-
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)

@@ -6,13 +6,19 @@
 
 ## Intro
 
-- 📈 I'm focused on building my skills in Data Analytics through hands-on projects.
-  🧹 I'm learning to clean, analyze, and transform data using Excel, SQL, Power BI, and Python.
-  📊 I'm building interactive dashboards and exploring data to discover meaningful business insights.
-  🤝 I'm open to collaborating on Data Analytics projects and learning from others.
-  🎯 My goal is to turn raw data into actionable insights that support better business decisions.
-- 🌐 See [My Portfolio here](https://portfolio-cyan-pi-65.vercel.app)
-- 📧 How to Reach me [myminhajalam392@gmail.com](mailto:myminhajalam392@gmail.com)
+📈 I'm focused on building my skills in Data Analytics through hands-on projects.
+
+🧹 I'm learning to clean, analyze, and transform data using Excel, SQL, Power BI, and Python.
+
+ 📊 I'm building interactive dashboards and exploring data to discover meaningful business insights.
+  
+🤝 I'm open to collaborating on Data Analytics projects and learning from others.
+  
+🎯 My goal is to turn raw data into actionable insights that support better business decisions.
+  
+🌐 See [My Portfolio here](https://portfolio-cyan-pi-65.vercel.app)
+- 
+📧 How to Reach me [myminhajalam392@gmail.com](mailto:myminhajalam392@gmail.com)
 
 ## Skills
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
